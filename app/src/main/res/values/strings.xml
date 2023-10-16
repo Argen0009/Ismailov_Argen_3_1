@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Ismailov_Argen_3_1</string>
+    <string name="intents">Intents</string>
+    <string name="Gmail">Your email</string>
+    <string name="temes">temes</string>
+    <string name="message">message</string>
+    <string name="SEND">SEND</string>
+</resources>
